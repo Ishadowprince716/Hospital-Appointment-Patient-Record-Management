@@ -484,7 +484,7 @@ To implement any of these features:
 For feature requests, bug reports, or suggestions:
 - Open an issue in this repository
 - Contact via GitHub discussions
-- Email: your-email@example.com
+- Email: Patelmrrahul199@gmail.com
 
 ---
 
